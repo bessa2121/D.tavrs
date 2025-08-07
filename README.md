@@ -80,7 +80,3 @@ Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia e se
 ---
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
-
-
-
-![Snake animation](https://github.com/bessa2121/bessa2121/blob/output/github-contribution-grid-snake.svg)
