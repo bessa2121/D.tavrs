@@ -32,7 +32,12 @@ Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia e se
 <div>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
-
+---
+<div>
+<a href="https://github.com/bessa2121">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 ---
 
 ## 🌱 Em aprendizado
