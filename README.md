@@ -1,4 +1,4 @@
-# D.tavrs
+<h1 align="center"> D.Tavrs</h1>
 <h1 align="center">👋 Olá, eu sou Davi Tavares!</h1>
 
 <p align="center">🎓 Estudante de Desenvolvimento de Sistemas | 💻 Front-end, Back-end & Dados</p>
