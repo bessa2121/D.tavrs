@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre curioso para aprender mais. Tenho interesse em atuar tanto no **Front-end** quanto no **Back-end**, além de explorar o universo da **análise de dados**.
+Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia e sempre curioso para aprender mais. Tenho interesse em atuar no **Back-end**, além de explorar o universo de **Banco de Dados** e brincar com **Front-End**.
 
 ---
 
