@@ -35,9 +35,7 @@ Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia e se
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
----
-
-## 📚 Bibliotecas & Frameworks
+### 📚 Bibliotecas & Frameworks
 
 <div>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
