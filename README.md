@@ -1,5 +1,5 @@
 # D.tavrs
-<h1 align="center">👋 Olá, eu sou [Seu Nome]!</h1>
+<h1 align="center">👋 Olá, eu sou Davi Tavares!</h1>
 
 <p align="center">🎓 Estudante de Desenvolvimento de Sistemas | 💻 Front-end, Back-end & Dados</p>
 
@@ -18,7 +18,7 @@ Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia e se
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
 ### 🔧 Back-end
@@ -31,16 +31,13 @@ Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia e se
 ### 📊 Dados
 <div>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
 
 ---
 
 ## 🌱 Em aprendizado
-- APIs REST
-- Banco de dados relacionais e não relacionais
+- Banco de dados relacionais
 - Versionamento com Git & GitHub
 - Práticas de Clean Code e DevOps
 
@@ -56,9 +53,7 @@ Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia e se
 ## 📫 Contatos:
 
 <div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://instagram.com/seu-usuario-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.twitch.tv/seu-usuario-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="mailto:contato@seu-usuario-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/seu-usuario-linkedin-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 </div>
